@@ -23,7 +23,12 @@ The most observed rating by category in TV shows and movies.
 
 How many movies or shows it has released year differ from its year added.
 
-https://github.com/sohammhatre036/Data-Analysis/assets/131856125/e299ac05-bd8d-4e71-a8b5-a7a0ec6bdaba
+# Dashboard Results 
+
+![image](https://github.com/sohammhatre036/Data-Analysis/assets/131856125/5eea0748-54d1-4116-9c94-4d9a60f8928b)
+
+
+
 
 
 # Conclusion
