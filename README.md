@@ -25,10 +25,15 @@ How many movies or shows it has released year differ from its year added.
 
 # Dashboard Results 
 Overall Movies and Tv Shows 
+
 ![image](https://github.com/sohammhatre036/Data-Analysis/assets/131856125/5eea0748-54d1-4116-9c94-4d9a60f8928b)
+
 Movies Analysis
+
 ![image](https://github.com/sohammhatre036/Data-Analysis/assets/131856125/53892d35-1fe0-4eab-ae1b-588de9e9aaa7)
+
 Tv Shows Analysis
+
 ![image](https://github.com/sohammhatre036/Data-Analysis/assets/131856125/a572fa7f-bd37-4215-b611-f1fc5d1bd26e)
 
 
